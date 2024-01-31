@@ -117,11 +117,11 @@ header {
   -o-transition: all ease 0.2s;
 }
 .submenu-wrapper i {
-  transition: all ease 0.2s ;
-  -webkit-transition: all ease 0.2s ;
-  -moz-transition: all ease 0.2s ;
-  -ms-transition: all ease 0.2s ;
-  -o-transition: all ease 0.2s ;
+  transition: all ease 0.2s;
+  -webkit-transition: all ease 0.2s;
+  -moz-transition: all ease 0.2s;
+  -ms-transition: all ease 0.2s;
+  -o-transition: all ease 0.2s;
   transition-delay: 0.2s;
 }
 .submenu {
@@ -582,10 +582,10 @@ header {
 .telegram:hover {
   color: var(--main-color);
 }
-.instagram:hover{
+.instagram:hover {
   color: rgb(233, 80, 4);
 }
-.copyrighting{
+.copyrighting {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -593,10 +593,10 @@ header {
   margin: 10px auto;
   color: #5e5959;
 }
-.copyright-items span{
- font-size: 30px;
- padding: 10px;
+.copyright-items span {
+  font-size: 30px;
+  padding: 10px;
 }
-.copyrighting-title{
+.copyrighting-title {
   margin-top: 5px;
 }
