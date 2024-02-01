@@ -18,7 +18,6 @@ It is a Responsive Website in persian Language That is Designed Using only pure 
 - Farsi Language
 - Light and Compact
 
-- 
 ## Screenshots
 
 ![App Screenshot](https://github.com/RezaSoofian/Persian-RentCar-website/blob/master/assets/imgs/RM.1.png)
